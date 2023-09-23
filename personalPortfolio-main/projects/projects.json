@@ -1,6 +1,17 @@
 [
+  {
+    "name": "Movies Search ",
+    "desc": "A simple movie search web application built with React.js that allows users to search for movies, view details, and save their favorite movies.",
+    "image": "moviesrch",
+    "category": "basicweb",
+    "links": {
+      "view": "https://moviesearchvks.netlify.app/",
+      "code": "https://github.com/Vikas7075/MovieSearchApp"
+    }
+  },
   
   {
+    
     "name": "NewsBlog App ",
     "desc": "NewsBlog website, a platform that aggregates news articles from various sources using the News API.",
     "image": "newsblog",
@@ -43,6 +54,18 @@
       "code": "https://github.com/Vikas7075/Cricket_Match_Website-"
     }
   },
+
+  {
+    "name": "Simple Calculator ",
+    "desc": "A simple calculator web application built with ReactJS.",
+    "image": "mycalcy",
+    "category": "basicweb",
+    "links": {
+      "view": "https://calculatorvks.netlify.app/",
+      "code": "https://github.com/Vikas7075/CalculatorApp"
+    }
+  },
+
 
 
   {
